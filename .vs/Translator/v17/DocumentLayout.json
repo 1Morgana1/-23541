@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\britt\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\finallabs\\translator\\Translator-master1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A499F1F0-4AC5-43E2-A098-2220DFC5BF2A}|Translator\\Translator.csproj|c:\\users\\britt\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\finallabs\\translator\\translator-master1\\translator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A499F1F0-4AC5-43E2-A098-2220DFC5BF2A}|Translator\\Translator.csproj|solutionrelative:translator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\britt\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\finallabs\\translator\\Translator-master1\\Translator\\Program.cs",
+              "RelativeDocumentMoniker": "Translator\\Program.cs",
+              "ToolTip": "C:\\Users\\britt\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\finallabs\\translator\\Translator-master1\\Translator\\Program.cs",
+              "RelativeToolTip": "Translator\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:55:08.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
